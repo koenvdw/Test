@@ -1,2 +1,4 @@
 a new file
-a new line
+a newly line
+a third line
+
