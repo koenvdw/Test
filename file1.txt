@@ -1,8 +1,3 @@
 a new file
-<<<<<<< HEAD
 a new line
 a third line
-=======
-a newly line
-a third line
->>>>>>> develop
